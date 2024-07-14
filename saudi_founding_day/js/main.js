@@ -9,5 +9,5 @@ function menuToggle(){
 
 // Time & Date (Footer)
 setInterval(function(){
-document.getElementById('date').innerHTML = Date();
+document.getEl.ementById('date').innerHTML = Date();
 },1000);
